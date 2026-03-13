@@ -1,2 +1,15 @@
 # data-analyst-portfolio
-Portfolio de proyectos de análisis de datos
+Bienvenido a mi portafolio de análisis de datos.
+
+Herramientas utilizadas:
+- Python
+- SQL
+- Excel
+- Power BI
+- Tableau
+
+Proyectos incluidos:
+
+1. Análisis de ventas
+2. Análisis de clientes
+3. Dashboard interactivo
