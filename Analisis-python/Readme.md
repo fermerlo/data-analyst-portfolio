@@ -9,53 +9,53 @@ Se utilizó el dataset SampleSuperstore.csv, que contiene información sobre:
 
 Categorías y subcategorías de productos
 
-Ventas realizadas
+* Ventas realizadas
 
-Cantidad vendida
+* Cantidad vendida
 
-Descuentos aplicados
+* Descuentos aplicados
 
-Ganancias o pérdidas generadas
+* Ganancias o pérdidas generadas
 
 🛠 Herramientas utilizadas
 
-Python
+* Python
 
-Pandas
+* Pandas
 
-Matplotlib
+* Matplotlib
 
 🔎 Proceso de análisis
 
 El análisis se realizó en el archivo:
 
-analisis_ventas.py
+* analisis_ventas.py
 
 Se llevaron a cabo las siguientes etapas:
 
-Exploración del dataset (estructura y valores nulos)
+* Exploración del dataset (estructura y valores nulos)
 
 Cálculo de KPI principales:
 
-Ventas totales
+* Ventas totales
 
-Ganancia total
+* Ganancia total
 
-Análisis de ventas por categoría
+* Análisis de ventas por categoría
 
-Análisis de ventas y ganancias por subcategoría
+* Análisis de ventas y ganancias por subcategoría
 
-Evaluación del impacto de los descuentos en la rentabilidad
+* Evaluación del impacto de los descuentos en la rentabilidad
 
-Identificación del porcentaje de ventas con pérdidas cuando los descuentos superan el 20%
+* Identificación del porcentaje de ventas con pérdidas cuando los descuentos superan el 20%
 
 📊 Visualizaciones
 
 Se generaron gráficos utilizando Matplotlib para analizar:
 
-Ventas por subcategoría
+* Ventas por subcategoría
 
-Impacto de los descuentos sobre el profit
+* Impacto de los descuentos sobre el profit
 
 Las imágenes generadas se encuentran adjuntas en el repositorio.
 
