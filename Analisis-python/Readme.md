@@ -29,7 +29,7 @@ Categorías y subcategorías de productos
 
 El análisis se realizó en el archivo:
 
-* analisis_ventas.py
+* Analisis_de_ventas.py
 
 Se llevaron a cabo las siguientes etapas:
 
