@@ -59,7 +59,7 @@ Se generaron gráficos utilizando Matplotlib para analizar:
 
 Las imágenes generadas se encuentran adjuntas en el repositorio.
 
-📈 Principales hallazgos
+🔎 Key Insights: 
 
 * Algunas subcategorías presentan altas ventas pero baja rentabilidad.
 
