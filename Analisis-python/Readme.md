@@ -61,11 +61,16 @@ Las imágenes generadas se encuentran adjuntas en el repositorio.
 
 📈 Principales hallazgos
 
-Algunas subcategorías presentan altas ventas pero baja rentabilidad.
+* Algunas subcategorías presentan altas ventas pero baja rentabilidad.
 
-Los descuentos superiores al 20% tienden a generar pérdidas en varias transacciones.
+* Los descuentos superiores al 20% tienden a generar pérdidas en varias transacciones.
 
-Aproximadamente 13% de las ventas con descuentos elevados generan pérdidas, lo que podría indicar una política de descuentos poco eficiente.
+* Aproximadamente 13% de las ventas con descuentos elevados generan pérdidas, lo que podría indicar una política de descuentos poco eficiente.
+
+📈 Recomendaciones:
+
+* Revisar la estrategia de descuentos aplicada a determinadas categorías o productos.
+* Evaluar límites máximos de descuento para evitar ventas no rentables.
 
 💡 Conclusión
 Los resultados sugieren que la estrategia de descuentos podría ser optimizada para mejorar la rentabilidad. Reducir descuentos agresivos o aplicarlos de forma más selectiva podría mejorar el profit total.
