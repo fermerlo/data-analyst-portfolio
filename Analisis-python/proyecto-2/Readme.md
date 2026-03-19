@@ -1,6 +1,6 @@
  📊 Análisis de Ventas Geográficas y por Categoría - Dataset Superstore
 
- 🎯 Objetivo
+ 📌 Objetivo
 
 El objetivo de este proyecto es analizar las ventas a nivel geográfico y por categoría, con el fin de identificar oportunidades de mejora en la estrategia comercial y optimizar la rentabilidad del negocio.
 
