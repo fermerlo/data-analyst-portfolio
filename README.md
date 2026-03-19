@@ -11,5 +11,5 @@ Herramientas utilizadas:
 Proyectos incluidos:
 
 1. Análisis de ventas
-2. Análisis de clientes
+2. Análisis zonal y por categoria
 3. Dashboard interactivo
