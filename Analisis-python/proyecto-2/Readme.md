@@ -14,7 +14,7 @@ Se utilizó el dataset **Sample Superstore**, que contiene información sobre:
 * Categorías de productos
 * Descuentos aplicados
 
-  🛠 Tecnologías utilizadas
+ 🛠 Tecnologías utilizadas
 
 * Python
 * Pandas
