@@ -5,16 +5,15 @@
 Este proyecto tiene como objetivo analizar un dataset de ventas para identificar patrones relevantes relacionados con las ventas, la rentabilidad y el impacto de los descuentos en el profit de la empresa.
 
 📂 Dataset utilizado
-Se utilizó el dataset SampleSuperstore.csv, que contiene información sobre:
 
-Categorías y subcategorías de productos
+Se utilizó el dataset SampleSuperstore.csv
 
+que contiene información sobre:
+
+* Categorías y subcategorías de productos
 * Ventas realizadas
-
 * Cantidad vendida
-
 * Descuentos aplicados
-
 * Ganancias o pérdidas generadas
 
 🛠 Herramientas utilizadas
