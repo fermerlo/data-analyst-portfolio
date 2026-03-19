@@ -109,7 +109,7 @@ ax.set_ylabel("Porcentaje")
 
 plt.subplots_adjust(left=0.2,right=0.8,top=0.85,bottom=0.2)
 ax.grid(axis="y", linestyle="--", alpha=0.6)
-ax.set_xticks(rotation=0)
+ax.set_xticklabels(ax.get_xticklabels(), rotation=0)
 for i in range(len(porcentaje_de_ganancia)):
     ax.text(
         i,
