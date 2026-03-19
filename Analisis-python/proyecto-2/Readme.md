@@ -62,7 +62,7 @@ Se utilizó el dataset **Sample Superstore**, que contiene información sobre:
 
 📌 Insight clave:
 
-> No todas las categorías que venden más son las más rentables.
+ No todas las categorías que venden más son las más rentables.
 
  📊 Visualizaciones
 
