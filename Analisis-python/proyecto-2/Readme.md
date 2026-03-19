@@ -4,12 +4,6 @@
 
 El objetivo de este proyecto es analizar las ventas a nivel geográfico y por categoría, con el fin de identificar oportunidades de mejora en la estrategia comercial y optimizar la rentabilidad del negocio.
 
- 🧰 Tecnologías utilizadas
-
-* Python
-* Pandas
-* Matplotlib
-
  📁 Dataset
 
 Se utilizó el dataset **Sample Superstore**, que contiene información sobre:
@@ -19,6 +13,12 @@ Se utilizó el dataset **Sample Superstore**, que contiene información sobre:
 * Regiones y ciudades
 * Categorías de productos
 * Descuentos aplicados
+
+  🛠 Tecnologías utilizadas
+
+* Python
+* Pandas
+* Matplotlib
 
  🔍 Estructura del análisis
 
